@@ -1,12 +1,12 @@
 * cli-alchemy
-This is [[https://apps.apple.com/us/app/zeds-alchemy/id436454373][Zed's Alchemy]] but it runs through shell
+This is [[https://apps.apple.com/us/app/zeds-alchemy/id436454373][Zed's Alchemy]] but it runs through shell. Unlike other forks this one is lot more interactive(has emojis, terminal menus and more)
 
 * dependencies:
 + An emoji font
 + python3
 + python3-term-simple-menu
 
-* todo [0/2]
+* todo [0/3]
 + [ ] add all 390 items in element.py
 + [ ] implement game 
 + [ ] save data of items unlocked by user
