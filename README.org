@@ -1,0 +1,6 @@
+* cli-alchemy
+This is [[https://apps.apple.com/us/app/zeds-alchemy/id436454373][Zed's Alchemy]] but it runs through shell
+
+* dependencies:
++ An emoji font
++ gcc
