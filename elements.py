@@ -10,7 +10,7 @@ elements = {
     "🌬️ air": [], # [] means its a basic element
     "✈️ airplane": [
         ["🌬️ air", "🚗 car"],
-        ["🐦 bird", "🔨 metal"]
+        ["🐦 bird", "🔗 metal"]
     ],
     "🤓 Albert Einstein": [
       ["⚡ energy", "🧑‍🔬 scientist"]  
@@ -134,7 +134,7 @@ elements = {
         ["👹 beast", "🌊 dam"]
     ],
     "🐝 bee": [
-        ["🐞 beetle", "🌸 flower"],
+        ["🐞 1le", "🌸 flower"],
         ["🌸 flower", "🧑🏹 hunter"]
     ],
     "🍺 beer": [
@@ -144,8 +144,69 @@ elements = {
     "🐞 beetle": [
         ["🌎 earth", "🐛 worm"]
     ],
+    "🟣🥕 beetroot": [
+        ["🌾 reed", "🧑‍🔬 scientist"],
+        ["🍚 sugar", "🫘 seed"]
+    ],
     "🇧🇾 Belarus": [
       ["🌏 country", "🚜 tractor"]  
+    ],
+    "🍓 berry": [
+        ["🍎 fruit", "🌿 grass"]
+    ],
+    "🚲 bicycle": [
+        ["🛞 wheel", "🛞 wheel"]
+    ],
+    "🐦 bird": [
+        ["💨 air", "🥚 egg"],
+        ["💨 air", "🦎 lizard"]
+        ["🐦 bird", "🐛 worm"],
+        ["🐦 bird", "🐦 bird"]
+    ],
+    "🛢 bitumen": [
+        ["🛢 kerogen", "🗜 pressure"]
+    ],
+    "🩸 blood": [
+        ["🍻 alcholic", "🚗 car"],
+        ["👹 beast", "🧑🏹 hunter"],
+        ["👹 beast", "🥷 warrior"],
+        ["🐦 bird", "🧑🏹 hunter"],
+        ["🦖 dinosaur", "🧑🏹 hunter"],
+        ["🦖 dinosaur", "🧑 man"],
+        ["🦖 dinosaur", "🥷 warrior"],
+        ["🐉 dragon", "🥷 warrior"]
+        ["🧑 man", "🥷 warrior"]
+    ],
+    "⛵ boat": [
+        ["💧 water", "🪵 wood"]
+    ],
+    "🌡️ boiler": [
+        ["🔗 metal", "💨 steam"]
+    ],
+    "📕 book": [
+        ["🪶 feather", "📄 paper"],
+        ["🧑 man", "📄 paper"]
+    ],
+    "🍛 borscht": [
+        ["🟣🥕 beetroot", "🔥 fire"],
+        ["🟣🥕 beetroot", "🥩 meat"],
+        ["🟣🥕 beetroot", "🍖 salo"]
+    ],
+    "🎀 bow": [
+        ["💪 arms", "🏹 Robin Hood"]
+    ],
+    "🍞 bread": [
+        ["🥟 dough", "🔥 fire"]
+    ],
+    "🧱 brick": [
+        ["⚱️ clay", "🔥 fire"]
+    ],
+    "🧱🏠 brick house": [
+        ["🧱 brick", "🪨 concrete"]
+    ],
+    "🦋 butterfly": [
+        ["🌬️ air", "🐛 worm"],
+        ["🕟 time", "🐛 worm"]
     ],
     "🇩🇪 Germany": [
         ["🌏 country", "🚗 VW Beetle"]
